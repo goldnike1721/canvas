@@ -47,3 +47,6 @@ setInterval(function () {
   x = update(x);
   y = update(y);
 }, 30);
+
+
+піовіллівьмлівм
